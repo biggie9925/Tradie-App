@@ -5,11 +5,8 @@ You can visit this website here: https://biggie9925.github.io/Tradie-App/
 
 Or you can find the code in the master branch.
 
-I used json-server as a database for storing some jobs. 
-
-Unfortunately Github Pages does not load these jobs.
+I used json-server as a database for storing some jobs. Unfortunately Github Pages does not load these jobs.
 
 ![alt text](https://github.com/biggie9925/Tradie-App/blob/main/pending_jobs.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 
