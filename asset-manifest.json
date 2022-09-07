@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Tradie-App/static/css/main.e3d5290e.css",
+    "main.js": "/Tradie-App/static/js/main.c7fd44cb.js",
+    "static/js/787.5d04c707.chunk.js": "/Tradie-App/static/js/787.5d04c707.chunk.js",
+    "static/media/bg.jpg": "/Tradie-App/static/media/bg.b55f35addc737a6dad02.jpg",
+    "index.html": "/Tradie-App/index.html",
+    "main.e3d5290e.css.map": "/Tradie-App/static/css/main.e3d5290e.css.map",
+    "main.c7fd44cb.js.map": "/Tradie-App/static/js/main.c7fd44cb.js.map",
+    "787.5d04c707.chunk.js.map": "/Tradie-App/static/js/787.5d04c707.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3d5290e.css",
+    "static/js/main.c7fd44cb.js"
+  ]
+}
