@@ -7,6 +7,6 @@ I used json-server as a database for storing some jobs. Unfortunately Github Pag
 I have also uploaded the full code with instructions on how to run in the master branch.
 
 ![alt text](https://github.com/biggie9925/Tradie-App/blob/main/pending_jobs.jpg?raw=true)
-![alt text](https://github.com/biggie9925/Tradie-App/blob/main/pending_jobs.jpg?raw=true)
+![alt text](https://github.com/biggie9925/Tradie-App/blob/main/json_db.jpg?raw=true)
 
 
